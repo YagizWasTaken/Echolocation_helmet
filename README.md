@@ -1,2 +1,7 @@
 # Echolocation_helmet
-by ECHO
+
+The purpose of the project is to enable visually impaired individuals to learn about the locations of objects in their environment, to improve their ability to move around, to increase their social integration, to feel more confident, and to achieve equality in society. The goal is for visually impaired individuals to be able to walk around comfortably without support and to not feel excluded from society.
+
+The project and products aimed at visually impaired individuals have been thoroughly researched, and the good and bad aspects of these projects have been recorded. As a result of this study, it was decided to use ultrasonic sensors that can detect the environment and surround sound technology to convert data from these ultrasonic sensors. The project is designed in the form of a helmet and has 5 ultrasonic sensors, a Raspberry Pi that will read the data, a battery, and a headset on the helmet.
+
+The biggest difference of our project from other projects developed for visually impaired individuals is the use of surround sound technology. The biggest drawback of projects that output information about the location of objects in the form of audio is that they can only provide information about 1 direction at a time. But with surround sound, the user can receive audio feedback from 5 different directions with different heights and frequencies in one unit of time, which will allow them to be aware of their surroundings. This will be done artificially with the help of echolocation helmet technology used by bats, whales, and dolphins, and the user will be aware of the location of objects around them.
