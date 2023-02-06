@@ -65,19 +65,19 @@ void loop(){
   if(uzaklik1 > 200)
     Serial.print("uzaklik1 ");
     Serial.print(uzaklik1);
-  Serial.print(" , ");
+  Serial.print("/");
   if(uzaklik2 > 200) 
     Serial.print("uzaklik2 ");
     Serial.print(uzaklik2);
-  Serial.print(" , ");
+  Serial.print("/");
   if(uzaklik3 > 200)
     Serial.print("uzaklik3 ");
     Serial.print(uzaklik3);
-  Serial.print(" , ");
+  Serial.print("/");
   if(uzaklik4 > 200)
     Serial.print("uzaklik4 ");
     Serial.print(uzaklik4);
-  Serial.print(" , ");
+  Serial.print("/");
   if(uzaklik5 > 200)
     Serial.print("uzaklik5 ");
     Serial.println(uzaklik5);
